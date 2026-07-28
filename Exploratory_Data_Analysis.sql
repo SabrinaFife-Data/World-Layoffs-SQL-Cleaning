@@ -45,4 +45,4 @@ SELECT
     funds_raised_millions
 FROM layoffs_staging2
 WHERE percentage_laid_off = 1
-ORDER BY funds_raised_millions DESC;
+ORDER BY funds_raised_millions DESC; 
