@@ -32,3 +32,6 @@ After standardizing the dataset, I executed exploratory queries to identify core
 * **Database Management System:** MySQL / MySQL Workbench
 * **Version Control:** Git, GitHub Desktop
 * **Advanced SQL Concepts:** CTEs, Window Functions (`ROW_NUMBER`), Self-Joins, Aggregate Functions (`SUM`, `GROUP BY`, `ORDER BY`), Data Type Conversion (`STR_TO_DATE`), String Manipulation (`TRIM`).
+
+* ## Executive Power BI Dashboard
+![World Layoffs Power BI Dashboard](dashboard_preview.png)
